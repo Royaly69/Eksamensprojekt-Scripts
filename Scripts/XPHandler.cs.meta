@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a61968dc08d3a08418a66f3b44c86af6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - xpBar: {instanceID: 0}
+  - level: {instanceID: 0}
+  - choice: {fileID: 2281981264702464532, guid: 115bd0adf186fa843836f4f294ba8552, type: 3}
+  - TalentChoice: {fileID: 4617997617887758958, guid: 67d7f3d0ccede9b4f85e20401f171431, type: 3}
+  - PickupRadius: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
